@@ -5,4 +5,4 @@
 🌱 Exploring **AI integrations** with LLM APIs & agentic workflows
 📫 sushantrajhans2222@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/sushant-r-414342137/) · [Portfolio](your-link)
+[LinkedIn](https://www.linkedin.com/in/sushant-r-414342137/) · [Portfolio](https://sushraj.github.io/)
